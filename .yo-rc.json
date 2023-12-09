@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.9.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "shareact",
+    "libraryId": "306d49e9-2637-4bc0-a060-3b5fdd74751e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "shareact",
+    "solutionShortDescription": "shareact description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

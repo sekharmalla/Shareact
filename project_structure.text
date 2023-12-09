@@ -1,0 +1,37 @@
+- .eslintrc.js
+- .gitignore
+- .npmignore
+- .yo-rc.json
+- LICENSE
+- README.md
+- config
+  - config.json
+  - deploy-azure-storage.json
+  - package-solution.json
+  - sass.json
+  - serve.json
+  - write-manifests.json
+- gulpfile.js
+- package-lock.json
+- package.json
+- src
+  - index.ts
+  - webparts
+    - shareact
+      - ShareactWebPart.manifest.json
+      - ShareactWebPart.ts
+      - assets
+        - welcome-dark.png
+        - welcome-light.png
+      - components
+        - FeedbackComponent.tsx
+        - IShareactProps.ts
+        - Shareact.module.scss
+        - Shareact.tsx
+      - loc
+        - en-us.js
+        - mystrings.d.ts
+- teams
+  - 37f75c69-705c-4ed9-b190-68f56d8bd229_color.png
+  - 37f75c69-705c-4ed9-b190-68f56d8bd229_outline.png
+- tsconfig.json
